@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python url_scripts.py
